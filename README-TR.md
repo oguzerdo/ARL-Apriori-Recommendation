@@ -1,5 +1,7 @@
 # Association Rule Learning
 
+![image-20210516204053128](images/image-20210516204053128.png)
+
 Veri içerisindeki pattern'leri (ilişkileri, yapıları) bulmak için kullanılan kural tabanlı bir makine öğrenmesi tekniğidir.
 
 **Wallmart yaptığı analizlerde görüyor ki bebek bezi ile bira satışları arasında bir ilişki var.**

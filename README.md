@@ -1,5 +1,7 @@
 # Association Rule Learning
 
+![image-20210516204041332](images/image-20210516204041332.png)
+
 It is a rule-based machine learning technique used to find patterns (relationships, structures) in data.
 
 **In Wallmart’s analysis that there is a relationship between diaper and beer sales.**
