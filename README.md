@@ -15,7 +15,7 @@ Achieving these frequencies can give ideas for various actions on store shelves.
 
 It also allows us to use them as recommending systems.
 
-**Ne işe yarar?**
+**What does it do ?**
 
 Contributes to marketing studies.
 
